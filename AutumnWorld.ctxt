@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AutumnWorld
+comment1.params=
+comment1.target=AutumnWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ FallWorld.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ act\ -\ things\ you\ want\ to\ do\ each\ time\ around\ go\ in\ here\n\ \n
+numComments=3

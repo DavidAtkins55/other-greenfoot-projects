@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Catcher
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ isTouchingLeaf()
+comment3.params=
+comment3.target=void\ removeTouchingLeaf()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=
+comment5.target=void\ checkCollision()
+comment6.params=
+comment6.target=int\ getScore()
+numComments=7
